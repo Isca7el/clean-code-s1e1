@@ -54,7 +54,8 @@
     padding: 0px;
 }
 
-.item, h3 {
+.item,
+h2 {
     list-style: none;
 }
 
